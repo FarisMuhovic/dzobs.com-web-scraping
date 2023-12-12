@@ -58,4 +58,5 @@ COLLECTION_NAME=abc
 
 ```
 
-**Author:** Faris Muhovic **Educational Use Only:** This project is intended for educational purposes. Ensure compliance with the terms of service of the websites being scraped.
+**Author:** Faris Muhovic **Educational Use Only:** 
+#This project is intended for educational purposes. Ensure compliance with the terms of service of the websites being scraped.
